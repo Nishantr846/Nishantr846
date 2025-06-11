@@ -20,7 +20,6 @@
 
 <p align="center">
   <!-- Programming Languages -->
-<!-- Programming Languages -->
 <strong>Programming Languages</strong><br>
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
