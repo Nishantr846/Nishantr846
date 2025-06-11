@@ -16,51 +16,69 @@
 ---
 
 ## 💼 Skills
-
-### 🛠 Tech Stack
-
 ## 🧠 Tech Stack & Skills
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<p align="center">
+  <!-- Programming Languages -->
+  <strong>Programming Languages</strong><br>
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  <br><br>
 
-🧠 Convolutional Neural Networks (CNN), 🖼️ OpenCV2, ⚙️ PEFT, 💬 NLP
+  <!-- Web Technologies -->
+  <strong>Web Development</strong><br>
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  <br><br>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+  <!-- Machine Learning Libraries -->
+  <strong>ML Libraries & Frameworks</strong><br>
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  <br><br>
 
-🧩 Data Structures & Algorithms (DSA), 🔁 Object-Oriented Programming (OOP)
+  <!-- ML Techniques -->
+  <strong>Techniques</strong><br>
+  🧠 Convolutional Neural Networks (CNN) &nbsp; 🖼️ OpenCV2 &nbsp;⚙️ PEFT &nbsp;💬 NLP
+  <br><br>
 
-### 💼 Soft Skills  
-🤝 Team Collaboration • 🔎 Digital Prospecting • 📊 Market Research • ⏱️ Time Management  
-💡 Adaptability • 🗣️ Presentation Skills
+  <!-- Databases -->
+  <strong>Databases</strong><br>
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+  <br><br>
 
+  <!-- Developer Tools -->
+  <strong>Dev Tools & Platforms</strong><br>
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+  <br><br>
 
-## 📂 Featured Projects
+  <!-- Concepts -->
+ <strong>Core Concepts</strong><br>
+![DSA](https://img.shields.io/badge/DSA-Important-blue?style=for-the-badge&logo=codeforces)
+![OOP](https://img.shields.io/badge/OOP-Principles-9C27B0?style=for-the-badge&logo=abstract)
+![DBMS](https://img.shields.io/badge/DBMS-Concepts-4CAF50?style=for-the-badge&logo=mysql)
+![OS](https://img.shields.io/badge/OS-Theory-607D8B?style=for-the-badge&logo=linux)
 
-- **🔍 Twitter Sentiment Analyzer** – Real-time tweet analysis using LLMs + Streamlit  
-- **📷 Plant Disease Detection** – AI model for disease classification with care/treatment guidance  
-- **📊 Multiple Disease Prediction** – ML app for predicting Diabetes, Heart Disease, etc.  
-- **🧩 Sudoku Solver** – Backtracking algorithm implemented in C++  
-- **🎬 Movie Recommendation System** – ML-based personalized recommendation engine  
-- **📁 Resume-Based Career Coach (WIP)** – Upload resume → Get job roles, resume tips, and interview questions using LLMs
+  <br><br>
+
+  <!-- Soft Skills -->
+  <strong>Soft Skills</strong><br>
+  🤝 Team Collaboration • 🔎 Digital Prospecting • 📊 Market Research • ⏱️ Time Management<br>
+  💡 Adaptability • 🗣️ Presentation Skills
+</p>
 
 ---
 
