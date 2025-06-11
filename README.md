@@ -7,11 +7,9 @@
 
 ## 🚀 About Me
 
-- 🌱 Passionate about creating impactful software solutions using AI and full-stack technologies  
-- 🧠 Strong foundation in **Data Structures & Algorithms**, **OOP**, and **System Design**
-- 🔬 Worked on projects involving **ML**, **Deep Learning**, **Computer Vision**, and **Generative AI**
-- 📈 Thrive in collaborative, fast-paced, and learning-driven environments  
-- 🧰 Technically curious, execution-focused, and driven by innovation
+B.Tech CSE student with strong command over DSA, OOP (C++, Python) and hands-on experience in web development (HTML, CSS, JS) and ML model deployment. Built and deployed projects like a diabetes predictor, Twitter sentiment analyzer, and Sudoku solver.
+
+Doing an internship at Konu, contributing to real-world systems using LLMs, LangChain, LoRA, and RAG pipelines. Skilled in agile development, problem-solving, and delivering efficient, scalable solutions. Seeking an SDE role to build impactful, user-focused products.
 
 ---
 
