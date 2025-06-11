@@ -66,11 +66,11 @@
   <br><br>
 
   <!-- Concepts -->
- <strong>Core Concepts</strong><br>
-![DSA](https://img.shields.io/badge/DSA-Important-blue?style=for-the-badge&logo=codeforces)
-![OOP](https://img.shields.io/badge/OOP-Principles-9C27B0?style=for-the-badge&logo=abstract)
-![DBMS](https://img.shields.io/badge/DBMS-Concepts-4CAF50?style=for-the-badge&logo=mysql)
-![OS](https://img.shields.io/badge/OS-Theory-607D8B?style=for-the-badge&logo=linux)
+<strong>Core Concepts</strong><br>
+![DSA](https://img.shields.io/badge/DSA-blue?style=for-the-badge&logo=codeforces)
+![OOP](https://img.shields.io/badge/OOP-9C27B0?style=for-the-badge&logo=abstract)
+![DBMS](https://img.shields.io/badge/DBMS-4CAF50?style=for-the-badge&logo=mysql)
+![OS](https://img.shields.io/badge/OS-607D8B?style=for-the-badge&logo=linux)
 
   <br><br>
 
