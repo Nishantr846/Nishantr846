@@ -81,11 +81,15 @@ Doing an internship at Konu, contributing to real-world systems using LLMs, Lang
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishantr846&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishantr846&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishantr846&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github&custom_title=My GitHub Stats" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishantr846&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantr846&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
