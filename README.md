@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nishant Kumar
 
 🎓 Final Year B.Tech CSE Student | 💻 Software Developer | 🤖 Machine Learning Enthusiast  
-🔍 Actively seeking internship opportunities in **Software Engineering**, **Machine Learning**, or **Front-End Development**
+🔍 Actively seeking internship opportunities in **Software Engineering**, **Machine Learning**.
 
 ---
 
