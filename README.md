@@ -40,17 +40,17 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishantKumar-29&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishantKumar-29&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishantr846&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishantr846&theme=radical" width="400"/>
 </p>
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 [Email](mailto:nishant.cse29@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nishant-kumar-29)  
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) *(if available)*
+- 📧 [Email](mailto:nishantr846@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nishantr846)  
+- 🌐 [Portfolio Website](https://nishantr846.vercel.app)
 
 ---
 
