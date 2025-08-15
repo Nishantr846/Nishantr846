@@ -71,27 +71,33 @@ I am a final-year B.Tech Computer Science student passionate about building effi
 
 ### 🧠 Core Competencies
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>AI/ML Techniques</strong>
-      <ul>
-        <li>Deep Learning & Generative AI</li>
-        <li>Natural Language Processing (NLP)</li>
-        <li>Retrieval Augmented Generation (RAG)</li>
-        <li>LLM Agent Orchestration</li>
-        <li>PEFT (Parameter-Efficient Fine-Tuning)</li>
-        <li>Multi-Agent Systems</li>
-      </ul>
+<table align="center" border="0" cellpadding="0" cellspacing="15" width="100%">
+  <tr valign="top">
+    <td width="50%">
+      <div align="center">
+        <h3>🤖 AI/ML Techniques</h3>
+        <hr>
+        <p align="left">
+          › Deep Learning & Generative AI<br>
+          › Natural Language Processing (NLP)<br>
+          › Retrieval Augmented Generation (RAG)<br>
+          › LLM Agent Orchestration<br>
+          › PEFT (Parameter-Efficient Fine-Tuning)<br>
+          › Multi-Agent Systems
+        </p>
+      </div>
     </td>
-    <td valign="top" width="50%">
-      <strong>Core CS Concepts</strong>
-      <ul>
-        <li>Data Structures & Algorithms (DSA)</li>
-        <li>Object-Oriented Programming (OOP)</li>
-        <li>Operating Systems (OS)</li>
-        <li>Database Management Systems (DBMS)</li>
-      </ul>
+    <td width="50%">
+      <div align="center">
+        <h3>💻 Core CS Concepts</h3>
+        <hr>
+        <p align="left">
+          › Data Structures & Algorithms (DSA)<br>
+          › Object-Oriented Programming (OOP)<br>
+          › Operating Systems (OS)<br>
+          › Database Management Systems (DBMS)
+        </p>
+      </div>
     </td>
   </tr>
 </table>
