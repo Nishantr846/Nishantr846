@@ -99,19 +99,32 @@ I am a final-year B.Tech Computer Science student passionate about building effi
 ---
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/Nishantr846">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantr846&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Nishantr846">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nishantr846&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Nishantr846">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishantr846&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/Nishantr846">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantr846&layout=compact&theme=catppuccin&hide_border=true&border_radius=10&count_private=true" alt="Top Languages" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Nishantr846">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishantr846&show_icons=true&theme=catppuccin&hide_border=true&border_radius=10&count_private=true" alt="Nishant's GitHub Stats" />
+</a>
+<a href="https://github.com/Nishantr846">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishantr846&theme=catppuccin&hide_border=true&border_radius=10" alt="Nishant's Streak Stats" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Nishantr846">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nishantr846&theme=catppuccin&column=7&margin-w=15&margin-h=15" alt="Nishant's GitHub Trophies" />
+</a>
+
+</div>
 
 ---
 
