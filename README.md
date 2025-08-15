@@ -112,7 +112,7 @@ I am a final-year B.Tech Computer Science student passionate about building effi
   <a href="mailto:nishantr846@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://nishantr846.vercel.app">
+  <a href="https://nishantkumar846.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
