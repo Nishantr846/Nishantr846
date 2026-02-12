@@ -5,7 +5,7 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>
   </h1>
   <p>
-    <strong>Final Year B.Tech CSE @ KIIT | AI/ML Intern @ Deloitte | Software Developer</strong>
+    <strong>Final Year B.Tech CSE @ KIIT | EAD ADMM Intern @ Deloitte </strong>
   </p>
   <p>
     🚀 Actively seeking full-time opportunities in <strong>Software Engineering</strong> & <strong>AI/ML Engineering</strong>.
