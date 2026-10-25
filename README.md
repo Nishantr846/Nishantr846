@@ -1,280 +1,134 @@
-<!-- HEADER BANNER -->
 <div align="center">
 
-```
-                           ███╗   ██╗██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗████████╗
-                           ████╗  ██║██║██╔════╝██║  ██║██╔══██╗████╗  ██║╚══██╔══╝
-                           ██╔██╗ ██║██║███████╗███████║███████║██╔██╗ ██║   ██║   
-                           ██║╚██╗██║██║╚════██║██╔══██║██╔══██║██║╚██╗██║   ██║   
-                           ██║ ╚████║██║███████║██║  ██║██║  ██║██║ ╚████║   ██║
-                           ╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝  
-                                             ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗ 
-                                             ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
-                                             █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
-                                             ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
-                                             ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
-                                             ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+Nishant Kumar
+Data Engineering | Databricks & PySpark | Lakehouse Architecture | GenAI
+Building reliable data pipelines, analytics platforms, and AI-powered applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=760&lines=Data+Engineering+%7C+Databricks+%7C+PySpark;Medallion+Architecture+%7C+Delta+Lake;GenAI+%7C+RAG+%7C+LLM+Fine-Tuning;Analyst+at+Deloitte+India" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=640&lines=AI+%2F+ML+Engineer+in+the+Making+%F0%9F%A4%96;LLM+Fine-Tuner+%7C+RAG+Architect;Full-Stack+Builder+%7C+KIIT+CSE+%2726;Currently+%40+Deloitte+India;Open+to+SDE+%26+ML+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Nishantr846.Nishantr846&left_color=black&right_color=00FF9C&left_text=visitors)
-[![LinkedIn](https://img.shields.io/badge/─────%20LINKEDIN%20─────-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishantr846)
-[![Gmail](https://img.shields.io/badge/─────%20GMAIL%20─────-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nishantr846@gmail.com)
-[![Portfolio](https://img.shields.io/badge/─────%20PORTFOLIO%20─────-00FF9C?style=flat-square&logo=vercel&logoColor=black)](https://nishantkumar846.vercel.app/)
+
+
 
 </div>
 
----
+$ whoami
+nishant@data-platforms:~$ cat about.txt
+I'm a Computer Science graduate and Analyst at Deloitte India, interested in building dependable data platforms and turning raw data into useful business insights.
 
-<!-- ABOUT ME - TERMINAL STYLE -->
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+My current focus is Data Engineering with Databricks and PySpark—including Medallion Architecture, Delta Lake, incremental ingestion, data transformation, orchestration, and governance. I also bring hands-on experience in Generative AI, RAG systems, and LLM fine-tuning, which I use to explore intelligent, conversational ways to work with data.
+- Current focus: Databricks, PySpark, Delta Lake, and production-style data pipelines
+- Analytics: SQL, Power BI, Advanced Excel, and Agile delivery
+- AI background: RAG, LangChain, Transformers, LoRA/QLoRA, and LLM applications
+- Approach: Learn by building, document the process, and keep projects practical
+Build reliable data foundations. Make analytics accessible. Apply AI where it adds value.
 
-```zsh
-┌──[nishant@kiit]─[~]
-└─$ whoami
+$ ls -la ./experience
+Deloitte India
+Analyst — Technology & Transformation (ADMM)
+- Contribute to enterprise technology and digital-transformation work.
+- Use SQL, Power BI, Advanced Excel, and analytical reporting techniques to support business insights.
+- Work within an Agile environment while continuing to develop technical and consulting skills.
+Kokku Proptech Private Limited
+AI/ML Intern | May 2025 – July 2025
+- Worked on Generative AI and LLM-related solutions.
+- Fine-tuned TinyLlama-1.1B using parameter-efficient techniques such as LoRA on domain-specific document data.
+- Explored document processing, retrieval-augmented generation (RAG), and LLM inference workflows.
+- Built prototypes using Python, Hugging Face Transformers, Flask, and vLLM.
+$ cat projects.json
+1. FinLake — End-to-End Banking Data Engineering Project
+Databricks Free Edition · PySpark · Delta Lake · SQL
 
-  > Final Year B.Tech CSE @ KIIT
-  > CGPA: 8.12 / 10
-  > Based in Hyderabad, India 📍
+An end-to-end banking data platform project focused on developing practical data engineering skills through a structured implementation.
+- Organizing the implementation around a layered lakehouse workflow.
+- Exploring data ingestion, transformation, data quality, and analytical-ready datasets.
+- Building incrementally, documenting each phase, and keeping the project accessible without paid platform dependencies.
+Status: In progress
+2. Neo Bank Data Platform — Medallion Lakehouse Pipeline
+Databricks · PySpark · Delta Lake · Unity Catalog · Supabase
 
-┌──[nishant@kiit]─[~]
-└─$ cat about.txt
+Built a banking-data pipeline using the Medallion Architecture.
+- Designed Bronze, Silver, and Gold layers for progressively refined data.
+- Worked with file-based ingestion using Auto Loader and JDBC ingestion from SQL Server.
+- Used Unity Catalog for data governance and Databricks Jobs for orchestration.
+- Explored incremental loading with Supabase and natural-language data exploration using Databricks Genie.
+3. DataPilot AI — Automated Data Engineering & Conversational Analytics
+Databricks · Lakeflow · Delta Lake · Unity Catalog · AI Agents
 
-  Currently @ Deloitte India
-  (Technology & Transformation Intern)
-
-  Previously @ Konu — built production
-  LLM pipelines, fine-tuned TinyLlama,
-  and shipped real AI systems.
-
-  I build things that think. 🧠
-
-┌──[nishant@kiit]─[~]
-└─$ echo $MISSION
-
-  "Code with purpose.
-   Learn with passion.
-   Build for impact."
-```
-
-<br clear="right"/>
-
----
-
-<!-- EXPERIENCE -->
-
-## `$ ls -la ./experience`
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 Deloitte India
-**Technology & Transformation — ADMM Intern**
-`Jan 2026 → Present`
-
-```
-● Power BI  ●  Advanced Excel  ●  SQL
-● Agile / Scrum methodology
-● Enterprise dashboard development
-● Large-scale digital transformation
-```
-
-</td>
-<td width="50%">
-
-### 🤖 Konu (Kokku Proptech)
-**AI / ML Intern**
-`May 2025 → Jul 2025`
-
-```
-● Fine-tuned TinyLlama-1.1B w/ LoRA
-  on a 1500+ page PDF corpus
-● Deployed chatbot: Flask + vLLM +
-  HuggingFace Transformers
-● Built LLM-as-a-Judge eval framework
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- PROJECTS -->
-
-## `$ cat projects.json`
-
-```json
-{
-  "projects": [
-    {
-      "name": "ResuMentor — AI Career Assistant",
-      "year": 2025,
-      "stack": ["LangChain", "Google Gemini", "Flask", "JavaScript"],
-      "description": "Multi-agent platform: resume analysis, job-role matching,
-                       personalised cover letter generation & interview prep.",
-      "status": "🟢 LIVE"
-    },
-    {
-      "name": "ChronoMind — Daily Journal Summariser",
-      "year": 2025,
-      "stack": ["Python", "Streamlit", "HuggingFace Transformers", "NLP"],
-      "description": "AI-powered journalling app with weekly summaries,
-                       timeline view, one-click export & session-based privacy.",
-      "status": "🟢 LIVE"
-    },
-    {
-      "name": "Sortify — Algorithm Visualiser",
-      "year": 2024,
-      "stack": ["JavaScript", "HTML5", "CSS3"],
-      "description": "Real-time DOM animation for Bubble Sort, Merge Sort & more.
-                       Arrays up to 50 elements. Deployed on GitHub Pages.",
-      "status": "🟢 LIVE"
-    }
-  ]
-}
-```
-
----
-
-<!-- TECH STACK -->
-
-## `$ pip list && npm list`
-
+An evolving project concept for combining governed data pipelines with conversational analytics.
+- Planning support for CSV, JSON, and Parquet data sources.
+- Designing a hybrid approach that combines deterministic pipeline execution with agent-assisted workflows.
+- Exploring approval-before-first-execution, data quality checks, change data capture (CDC), and a custom text-to-SQL agent alongside Genie.
+Status: Design / implementation in progress
+4. DOT Document Assistant — RAG & LLM Fine-Tuning
+Python · TinyLlama · LoRA/QLoRA · Hugging Face · vLLM
+- Processed a large technical PDF corpus into structured data for domain-specific language-model workflows.
+- Explored retrieval-augmented generation to ground answers in relevant document content.
+- Worked with parameter-efficient fine-tuning and local model inference.
+5. ResuMentor — AI-Powered Career Coach
+Python · Flask · LangChain · Gemini · Ollama
+- Developed an AI-assisted career platform for resume analysis, job recommendations, interview preparation, and cover-letter generation.
+- Integrated LLM-based features into a web application workflow.
+6. GreenGLOW — Plant Health Detection
+Python · CNN · TensorFlow
+- Built a plant-health classification project using a convolutional neural network trained on a large image dataset.
+- Explored image preprocessing, model training, and prediction workflows.
+$ pip list && databricks --version
 <div align="center">
 
-**─── LANGUAGES ───**
+DATA ENGINEERING & ANALYTICS
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**─── AI / ML STACK ───**
 
-![LangChain](https://img.shields.io/badge/LangChain-0086B4?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0086B4?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21F?style=for-the-badge&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-412991?style=for-the-badge&logo=python&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**─── DATA & ANALYTICS ───**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**─── CLOUD & TOOLS ───**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E77F0?style=for-the-badge&logo=google-gemini&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+PROGRAMMING & DATA TOOLS
+
+
+
+
+
+
+
+GENERATIVE AI & MACHINE LEARNING
+
+
+
+
+
+
 
 </div>
 
----
-
-<!-- SKILLS RADAR -->
-
-## `$ ./skills --verbose`
-
-```
-AI / ML TECHNIQUES                          CORE CS
-══════════════════════════════════          ══════════════════════════════════
-Deep Learning & GenAI     ████████░░  80%   DSA                ████████░░  80%
-NLP & Text Processing     ████████░░  80%   OOP                █████████░  90%
-RAG Pipelines             ████████░░  80%   DBMS               ███████░░░  70%
-LLM Fine-Tuning (LoRA)    ███████░░░  70%   OS Fundamentals    ███████░░░  70%
-Agent Orchestration       ███████░░░  70%   Computer Networks  ██████░░░░  60%
-Multi-Agent Systems       ██████░░░░  60%   Agile / Scrum      ███████░░░  70%
-LLM Evaluation Frameworks ██████░░░░  60%
-```
-
----
-
-<!-- CERTIFICATIONS -->
-
-## `$ cat certifications.txt`
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  [✓]  Complete Data Science, ML, DL & NLP Bootcamp                  │
-│       Krishai Technologies  ·  Aug 2025                             │
-├─────────────────────────────────────────────────────────────────────┤
-│  [✓]  Python for Machine Learning with NumPy, Pandas & Matplotlib   │
-│       Udemy  ·  May 2024                                            │
-├─────────────────────────────────────────────────────────────────────┤
-│  [✓]  The Complete Data Structures & Algorithms Course in Java      │
-│       Udemy                                                          │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<!-- GITHUB STATS -->
-
-## `$ git stats --global`
-
+Core concepts
+- Data Engineering: Medallion Architecture, batch and incremental ingestion, ETL/ELT concepts, data quality, orchestration, Delta Lake, Unity Catalog
+- AI Engineering: RAG, embeddings and vector search concepts, prompt engineering, LoRA/QLoRA, PEFT, Transformers, LLM inference
+- Analytics: SQL querying, dashboarding, data analysis, Advanced Excel, Power BI
+- Software Development: Python, C++, Java, Flask, Streamlit, REST API fundamentals
+- Ways of working: Git/GitHub, Agile methodology, technical documentation
+$ git stats --global
 <div align="center">
 
 <a href="https://github.com/Nishantr846">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nishantr846&show_icons=true&theme=merko&hide_border=true&border_radius=8&count_private=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nishantr846&show_icons=true&theme=merko&hide_border=true&border_radius=8&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" alt="Nishant's GitHub stats"/>
 </a>
 <a href="https://github.com/Nishantr846">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantr846&layout=compact&theme=merko&hide_border=true&border_radius=8&count_private=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantr846&layout=compact&theme=merko&hide_border=true&border_radius=8&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" alt="Most used languages"/>
 </a>
 
-<br/>
 
-<a href="https://github.com/Nishantr846">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishantr846&theme=merko&hide_border=true&border_radius=8&background=0d1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Nishantr846">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nishantr846&theme=matrix&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishantr846&theme=merko&hide_border=true&border_radius=8&background=0d1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub contribution streak"/>
 
 </div>
 
----
-
-<!-- CONNECT -->
-
-## `$ ssh nishant@connect`
-
+$ ssh nishant@connect
+I'm interested in building practical data platforms, strengthening my Data Engineering fundamentals, and exploring the intersection of analytics and AI.
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   OPEN TO ROLES IN:  SDE  |  ML Engineering  |  AI/LLM  ║
-╚══════════════════════════════════════════════════════════╝
-```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn──connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishantr846)
-[![Gmail](https://img.shields.io/badge/Gmail──drop%20a%20mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishantr846@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio──explore%20work-00FF9C?style=for-the-badge&logo=vercel&logoColor=black)](https://nishantkumar846.vercel.app/)
-
-<br/>
-
-```
-> Connection established. Let's build something great. 🚀
-```
-
+> Status: Always learning
+> Focus: Data Engineering + AI
+> Next step: Build, test, document, improve.
 </div>
