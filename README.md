@@ -1,8 +1,8 @@
 <div align="center">
 
-Nishant Kumar
-Data Engineering | Databricks & PySpark | Lakehouse Architecture | GenAI
-Building reliable data pipelines, analytics platforms, and AI-powered applications.
+<h1>Nishant Kumar</h1>
+<p> Data Engineering | Databricks & PySpark | Lakehouse Architecture | GenAI </p>
+<p>Building reliable data pipelines, analytics platforms, and AI-powered applications.</p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=760&lines=Data+Engineering+%7C+Databricks+%7C+PySpark;Medallion+Architecture+%7C+Delta+Lake;GenAI+%7C+RAG+%7C+LLM+Fine-Tuning;Analyst+at+Deloitte+India" alt="Typing SVG" />
 
 
